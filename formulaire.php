@@ -1,0 +1,1 @@
+Le nom du site web est Admission Licence<br>Formulaire<br><form method='POST' action='retourform.php'><?php include('includes/form.php') ?><br><input type='submit' value='Envoyer'></form><a href='accueil.php'>Retour</a>

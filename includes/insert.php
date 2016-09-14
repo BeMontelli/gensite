@@ -1,0 +1,1 @@
+<?php $insert = " Nom, Mail, Naissance, CV, Portfolio, Parcour_idParcour, Session_idSession,"; ?>

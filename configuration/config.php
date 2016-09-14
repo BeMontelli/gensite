@@ -1,0 +1,1 @@
+<?php $dbname = "aut_admission"; $servername = "localhost"; $username = "root"; $password = ""; ?>
